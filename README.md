@@ -7,7 +7,9 @@ You can launch it from window.rb
 <br>
 <br>
 
-A - D -> Movement
+Left - Right -> Movement
+<br>
+Down -> Increase speed
 <br>
 P -> Pause
 <br>
