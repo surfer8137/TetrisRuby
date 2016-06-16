@@ -1,5 +1,8 @@
-<body>
+<head>
 <h1>Ruby Tetris </h1>
+
+<head>
+<body>
 
 A basic tetris made on ruby using Gosu
 
