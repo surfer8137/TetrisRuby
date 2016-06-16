@@ -1,5 +1,5 @@
 <head>
-<h1>Ruby Tetris </h1>
+Ruby Tetris 
 
 <head>
 <body>
