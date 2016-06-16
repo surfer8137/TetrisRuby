@@ -1,4 +1,3 @@
- 
 <body>
 <h1> Ruby Tetris  </h1>
 A basic tetris made on ruby using Gosu
