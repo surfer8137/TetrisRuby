@@ -8,7 +8,7 @@ end
 
 class GameWindow < Gosu::Window
   def initialize
-    super 800, 600, true
+    super 800, 600, false
     @debug = true
     self.caption = "Game"
     @font = Gosu::Font.new(20)
